@@ -39,3 +39,10 @@ Generamos un commit correcto:
 
 6)-Mostrar diferencias entre dos commits
 -git diff commit_A commit_B
+
+7)-Reversión de un commit:
+-git revert commit_ID
+
+8)-Creación de una rama:
+-git branch branch_name
+-git checkout branch_name
