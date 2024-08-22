@@ -39,6 +39,3 @@ Generamos un commit correcto:
 
 6)-Mostrar diferencias entre dos commits
 -git diff commit_A commit_B
-
-
-dañamos algo super importante
