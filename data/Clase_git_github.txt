@@ -36,3 +36,6 @@ Generamos un commit correcto:
 -git log file_name
 -git show file_name
 -git checkout commit_ID
+
+6)-Mostrar diferencias entre dos commits
+-git diff commit_A commit_B
