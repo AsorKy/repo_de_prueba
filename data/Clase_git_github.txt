@@ -48,14 +48,16 @@ Generamos un commit correcto:
 -git checkout branch_name
 -git branch
 
-9)-Observamos a git en plataforma visual:
--gitk
+9)-Fusion de ramas:
+-git checkout rama_destino
+-git merge rama_a_fusionar
 
+10)-Observamos a git en plataforma visual:
+-gitk -> esto nos permite ver gráficamente el árbol de nuestro proyecto.
+Gitk nos permitira tener una forma amigable de ver nuetro histórico de cambios.
 
+11)-Clonar un repo
 
-
-
-
-un mensaje de prueba
+-git clone url
 
 
