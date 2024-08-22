@@ -46,3 +46,4 @@ Generamos un commit correcto:
 8)-Creación de una rama:
 -git branch branch_name
 -git checkout branch_name
+-git branch -> para ver las ramas disponibles
