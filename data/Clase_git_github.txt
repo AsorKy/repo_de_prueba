@@ -48,4 +48,7 @@ Generamos un commit correcto:
 -git checkout branch_name
 -git branch
 
+9)-Observamos a git en plataforma visual:
+-gitk
+
 
