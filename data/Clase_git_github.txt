@@ -1,0 +1,20 @@
+**************************************
+* Guia para la clase de Git y GitHub *
+**************************************
+
+1)-Creación de un repositorio
+
+-git init
+-git add
+-git commit
+
+Agregamos un mensaje en Vim con ESC + I, ahora, para escapar de Vim CON ESC + SHIFT +ZZ.
+
+Luego, vemos un histórico de los commits y rechazamos un git add.
+-git log
+-git rm --cached file_name.txt
+
+Generamos un commit correcto:
+
+-git add .
+-git commit -m 'mensaje'
