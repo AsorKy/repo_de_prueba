@@ -18,3 +18,21 @@ Generamos un commit correcto:
 
 -git add .
 -git commit -m 'mensaje'
+
+2)-Observar y modificar las configuraciones de git
+-git config --list
+-git config --global --unset user.name
+-git config --global --add user.name my_name
+
+3)-Eliminar un archivo del repo 
+-git rm file_name
+
+4)-Monitoriar cambios en el repositorio:
+-git status
+-git log file_name
+
+5)-Cambiar entre versiones de archivos:
+-git log
+-git log file_name
+-git show file_name
+-git checkout commit_ID
